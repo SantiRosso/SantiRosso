@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Santiago Rosso</h1>
 <h3 align="center">A full stack developer</h3>
+<h4>Hola! Soy Santiago Rosso, estudiante de la carrera de Desarrollo Web Full Stack en la academia Soy Henry y apasionado por la tecnología.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-rosso-421484227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-rosso-421484227/" height="30" width="40" /></a>
+¿Por qué contratarme? 
+
+Soy un desarrollador con +700 horas de experiencia teórica y práctica, realizando proyectos, siendo teacher assistant, manejando a un grupo y absorbiendo todo lo posible, con muchas ganas de seguir aprendiendo y seguir formándome profesionalmente! 
+
+Tengo capacidades y habilidades que fui puliendo a lo largo de este proceso como liderazgo, manejo de grupo, colaboración, trabajo de equipo, comunicación, organización, entre otras.
+
+Mis skills:
+ • Git y Github ✅
+ • JavaScript ✅
+ • React.js ✅
+ • Redux ✅
+ • Node.js ✅
+ • Express ✅
+ • Sequelize ✅
+ • PostgreSQL ✅<h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
