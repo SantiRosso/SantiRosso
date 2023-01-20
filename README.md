@@ -52,3 +52,7 @@ Mis skills:
  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SantiRosso&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiRosso&show_icons=true&locale=en&layout=compact" alt="SantiRosso" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SantiRosso&" alt="SantiRosso" /></p>
