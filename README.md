@@ -26,3 +26,7 @@ Mis skills:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-rosso-421484227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-rosso-421484227/" height="30" width="40" /></a>
 </p>
+ 
+ <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SantiRosso&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
