@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Rosso</h1>
 <h3 align="center">A full stack developer</h3>
-<h4>Hola! Soy Santiago Rosso, estudiante de la carrera de Desarrollo Web Full Stack en la academia Soy Henry y apasionado por la tecnología.
+<h4>Hola! Soy Santiago Rosso, egresado de la carrera de Desarrollo Web Full Stack en la academia Soy Henry y apasionado por la tecnología.
 
 ¿Por qué contratarme? 
 
