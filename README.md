@@ -4,7 +4,7 @@
 
 ¿Por qué contratarme? 
 
-Soy un desarrollador con +700 horas de experiencia teórica y práctica, realizando proyectos, siendo teacher assistant, manejando a un grupo y absorbiendo todo lo posible, con muchas ganas de seguir aprendiendo y seguir formándome profesionalmente! 
+Soy un desarrollador con experiencia teórica y práctica, realizando proyectos, siendo teacher assistant, manejando a un grupo y absorbiendo todo lo posible, con muchas ganas de seguir aprendiendo y seguir formándome profesionalmente! 
 
 Tengo capacidades y habilidades que fui puliendo a lo largo de este proceso como liderazgo, manejo de grupo, colaboración, trabajo de equipo, comunicación, organización, entre otras.
 
