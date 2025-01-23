@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santiago Rosso</h1>
+<h1 align="center">Hi, I'm Santiago Rosso</h1>
 <h3 align="center">A full stack developer</h3>
 <h4>Full-stack web developer with extensive experience leading teams, optimizing processes and developing innovative solutions. Passionate about technology and continuous learning, focusing on delivering high-quality, scalable products.
 
